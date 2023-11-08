@@ -2,6 +2,8 @@
 
 Simple 2D implement of the paper "Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments".
 
+![Figure_1](https://github.com/flztiii/SimplePlanner/assets/20518317/2f69f54d-410c-457e-85da-5737f74196cd)
+
 ## Info
 
 This repo only aims to help to better understand the paper "Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments".
